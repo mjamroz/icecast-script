@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#public domain, benzaldehyd@gawab.com
+#public domain, jamroz AT chem.uw.edu.pl
 #script run stream in python threads - you can init few streams from one script
 #additionaly, script plays jingles
 #and write 7 future songs to file "mountpoint-current.txt"
